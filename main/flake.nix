@@ -9,7 +9,7 @@
   
   inputs.src-xam-main.flake = false;
   inputs.src-xam-main.owner = "j-a-s-d";
-  inputs.src-xam-main.ref   = "refs/heads/main";
+  inputs.src-xam-main.ref   = "main";
   inputs.src-xam-main.repo  = "xam";
   inputs.src-xam-main.type  = "github";
   
