@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-xam-main": "src-xam-main"
+        "src-xam-1_8_0": "src-xam-1_8_0"
       }
     },
-    "src-xam-main": {
+    "src-xam-1_8_0": {
       "flake": false,
       "locked": {
         "lastModified": 1651695789,
@@ -51,7 +51,7 @@
       },
       "original": {
         "owner": "j-a-s-d",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/1.8.0",
         "repo": "xam",
         "type": "github"
       }
